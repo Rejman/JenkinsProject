@@ -1,2 +1,2 @@
 lang = "Python"
-print("Test działania skryptu na jenkinsie napisanego w", lang)
+print("Test dzialania skryptu na jenkinsie napisanego w", lang)
