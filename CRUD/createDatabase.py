@@ -1,6 +1,6 @@
 import sqlite3
 from sqlite3 import Error
-path = 'C:\\Users\\Ja\\Desktop\\pythonSql\\db\\pythonsqlite.db'
+path = 'pythonsqlite.db'
 def create_connection(db_file):
     try:
         conn = sqlite3.connect(db_file)
